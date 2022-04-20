@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diaa-shalaby
-- 👀 I’m interested in Robotics, Machine Learning, NLP, Visual analytics 
+- 👀 I’m interested in Machine Learning, NLP, Visual analytics 
 - 🌱 I’m currently learning mainly ML topics: (un)supervied, CNNs, RNNs, LSTMs etc. In addition to pattern classification and audio processing.
 - 💞️ I’m looking to collaborate on all things AI and data science. 
 - 📫 How to reach me:
